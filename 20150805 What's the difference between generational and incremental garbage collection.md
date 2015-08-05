@@ -1,3 +1,8 @@
+##### 一个线程一个 lua 虚拟机模型
+
+任然会出现单个 lua 虚拟机的内存过高，而 lua5.3 的 gc 是增量 gc，当 lua 虚拟机内存过大的时候，下一次触发 GC 时的内存就会更大，久而久之容易出现内存泄露，其实不是泄露，是 GC 不及时，而 lua5.3 又把分代 GC 给去掉了，分代 GC 能更及时地做一次 full gc操作，所以单个 lua 虚拟机的内存不应该过大. skynet 很容易做到这一点，某个服务只加载若干数据库实体，服务要访问这些实体数据可以通过通信来达到共享，这就是 actor 模型的本质：在通信的过程中共享数据。一个数据中心只加载若干数据实体，而不是所有的数据实体，有部分实在需要共享的话，那就通过发消息方式来获取，这就是 actor 模型.
+
+
 http://stackoverflow.com/questions/5092134/whats-the-difference-between-generational-and-incremental-garbage-collection
 
 generational GC is always incremental, because it does not collect all unreachable objects during a cycle. Conversely, an incremental GC does not necessarily employ a generation scheme to decide which unreachable objects to collect or not.
