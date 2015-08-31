@@ -1,4 +1,5 @@
 **第一篇：Youth 青春 **
+
 Youth
 
 Youth is not a time of life; it is a state of mind; it is not a matter of rosy cheeks, red lips and supple knees; it is a matter of the will, a quality of the imagination, a vigor of the emotions; it is the freshness of the deep springs of life.
@@ -11,7 +12,8 @@ Whether 60 or 16, there is in every human being’s heart the lure of wonders, t
 
 When your aerials are down, and your spirit is covered with snows of cynicism and the ice of pessimism, then you’ve grown old, even at 20; but as long as your aerials are up, to catch waves of optimism, there’s hope you may die young at 80. 
  
-**•第二篇： Three Days to See(Excerpts)假如给我三天光明（节选）  **
+**第二篇： Three Days to See(Excerpts)假如给我三天光明（节选**
+
 Three Days to See
 
 All of us have read thrilling stories in which the hero had only a limited and specified time to live. Sometimes it was as long as a year, sometimes as short as 24 hours. But always we were interested in discovering just how the doomed hero chose to spend his last days or his last hours. I speak, of course, of free men who have a choice, not condemned criminals whose sphere of activities is strictly delimited.
@@ -29,6 +31,7 @@ The same lethargy, I am afraid, characterizes the use of all our faculties and s
 I have often thought it would be a blessing if each human being were stricken blind and deaf for a few days at some time during his early adult life. Darkness would make him more appreciative of sight; silence would teach him the joys of sound.
  
 **•第三篇：Companionship of Books 以书为伴（节选） **
+
 Companionship of Books
 
 A man may usually be known by the books he reads as well as by the company he keeps; for there is a companionship of books as well as of men; and one should always live in the best company, whether it be of books or of men.
@@ -46,6 +49,7 @@ Books introduce us into the best society; they bring us into the presence of the
 The great and good do not die, even in this world. Embalmed in books, their spirits walk abroad. The book is a living voice. It is an intellect to which on still listens.
 
 **•第四篇：If I Rest,I Rust 如果我休息，我就会生锈 **
+
 If I Rest, I Rust
 
 The significant inscription found on an old key---“If I rest, I rust”---would be an excellent motto for those who are afflicted with the slightest bit of idleness. Even the most industrious person might adopt it with advantage to serve as a reminder that, if one allows his faculties to rest, like the iron in the unused key, they will soon show signs of rust and, ultimately, cannot do the work required of them.
@@ -57,6 +61,7 @@ Industry keeps bright the key that opens the treasury of achievement. If Hugh Mi
 Labor vanquishes all---not inconstant, spasmodic, or ill-directed labor; but faithful, unremitting, daily effort toward a well-directed purpose. Just as truly as eternal vigilance is the price of liberty, so is eternal industry the price of noble and enduring success. 
  
 **•第五篇：Ambition 抱负 **
+
 Ambition
 
 It is not difficult to imagine a world short of ambition. It would probably be a kinder world: with out demands, without abrasions, without disappointments. People would have time for reflection. Such work as they did would not be for themselves but for the collectivity. Competition would never enter in. conflict would be eliminated, tension become a thing of the past. The stress of creation would be at an end. Art would no longer be troubling, but purely celebratory in its functions. Longevity would be increased, for fewer people would die of heart attack or stroke caused by tumultuous endeavor. Anxiety would be extinct. Time would stretch on and on, with ambition long departed from the human heart.
@@ -68,6 +73,7 @@ There is a strong view that holds that success is a myth, and ambition therefore
 We do not choose to be born. We do not choose our parents. We do not choose our historical epoch, the country of our birth, or the immediate circumstances of our upbringing. We do not, most of us, choose to die; nor do we choose the time or conditions of our death. But within all this realm of choicelessness, we do choose how we shall live: courageously or in cowardice, honorably or dishonorably, with purpose or in drift. We decide what is important and what is trivial in life. We decide that what makes us significant is either what we do or what we refuse to do. But no matter how indifferent the universe may be to our choices and decisions, these choices and decisions are ours to make. We decide. We choose. And as we decide and choose, so are our lives formed. In the end, forming our own destiny is what ambition is about.
  
 **•第六篇：What I have Lived for 我为何而生 **
+
 What I Have Lived For
 
 Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind. These passions, like great winds, have blown me hither and thither, in a wayward course, over a deep ocean of anguish, reaching to the very verge of despair.
@@ -81,6 +87,7 @@ Love and knowledge, so far as they were possible, led upward toward the heavens.
 This has been my life. I have found it worth living, and would gladly live it again if the chance were offered me.
  
 **•第七篇：When Love Beckons You 爱的召唤 **
+
 When Love Beckons You
 
 When love beckons to you, follow him, though his ways are hard and steep. And when his wings enfold you, yield to him, though the sword hidden among his pinions may wound you. And when he speaks to you, believe in him, though his voice may shatter your dreams as the north wind lays waste the garden.
@@ -108,6 +115,7 @@ To return home at eventide with gratitude;
 And then to sleep with a payer for the beloved in your heart and a song of praise upon your lips.
  
 **•第八篇：The Road to Success 成功之道 **
+
 The Road to Success
 
 It is well that young men should begin at the beginning and occupy the most subordinate positions. Many of the leading businessmen of Pittsburgh had a serious responsibility thrust upon them at the very threshold of their career. They were introduced to the broom, and spent the first hours of their business lives sweeping out the office. I notice we have janitors and janitresses now in offices, and our young men unfortunately miss that salutary branch of business education. But if by chance the professional sweeper is absent any morning, the boy who has the genius of the future partner in him will not hesitate to try his hand at the broom. It does not hurt the newest comer to sweep out the office if necessary. I was one of those sweepers myself.
@@ -120,6 +128,7 @@ The concerns which fail are those which have scattered their capital, which mean
 To summarize what I have said: aim for the highest; never enter a bar room; do not touch liquor, or if at all only at meals; never speculate; never indorse beyond your surplus cash fund; make the firm’s interest yours; break orders always to save owners; concentrate; put all your eggs in one basket, and watch that basket; expenditure always within revenue; lastly, be not impatient, for as Emerson says, “no one can cheat you out of ultimate success but yourselves.”
  
 **•第九篇：On Meeting the Celebrated 论见名人 **
+
 On Meeting the Celebrated
 
 I have always wondered at the passion many people have to meet the celebrated. The prestige you acquire by being able to tell your friends that you know famous men proves only that you are yourself of small account. The celebrated develop a technique to deal with the persons they come across. They show the world a mask, often an impressive on, but take care to conceal their real selves. They play the part that is expected from them, and with practice learn to play it very well, but you are stupid if you think that this public performance of theirs corresponds with the man within.
@@ -127,6 +136,7 @@ I have always wondered at the passion many people have to meet the celebrated. T
 I have been attached, deeply attached, to a few people; but I have been interested in men in general not for their own sakes, but for the sake of my work. I have not, as Kant enjoined, regarded each man as an end in himself, but as material that might be useful to me as a writer. I have been more concerned with the obscure than with the famous. They are more often themselves. They have had no need to create a figure to protect themselves from the world or to impress it. Their idiosyncrasies have had more chance to develop in the limited circle of their activity, and since they have never been in the public eye it has never occurred to them that they have anything to conceal. They display their oddities because it has never struck them that they are odd. And after all it is with the common run of men that we writers have to deal; kings, dictators, commercial magnates are from our point of view very unsatisfactory. To write about them is a venture that has often tempted writers, but the failure that has attended their efforts shows that such beings are too exceptional to form a proper ground for a work of art. They cannot be made real. The ordinary is the writer’s richer field. Its unexpectedness, its singularity, its infinite variety afford unending material. The great man is too often all of a piece; it is the little man that is a bundle of contradictory elements. He is inexhaustible. You never come to the end of the surprises he has in store for you. For my part I would much sooner spend a month on a desert island with a veterinary surgeon than with a prime minister.
  
 **•第十篇：The 50-Percent Theory of Life 生活理论半对半 **
+
 The 50-Percent Theory of Life
 
 I believe in the 50-percent theory. Half the time things are better than normal; the other half, they re worse. I believe life is a pendulum swing. It takes time and experience to understand what normal is, and that gives me the perspective to deal with the surprises of the future.
@@ -146,6 +156,7 @@ For that on blistering summer, the ground moisture was just right, planting earl
 Although plantings past may have fallen below the 50-percent expectation, and they probably will again in the future, I am still sustained by the crop that flourishes during the drought. 
 
 **第十一篇：What is Your Recovery Rate? 你的恢复速率是多少？ **
+
 What is Your Recovery Rate?
 
 What is your recovery rate? How long does it take you to recover from actions and behaviors that upset you? Minutes? Hours? Days? Weeks? The longer it takes you to recover, the more influence that incident has on your actions, and the less able you are to perform to your personal best. In a nutshell, the longer it takes you to recover, the weaker you are and the poorer your performance.
@@ -164,6 +175,7 @@ Live in the present. Not in the precedent.
 
 
 **•第十二篇：Clear Your Mental Space 清理心灵的空间 **
+
 Clear Your Mental Space
 
 Think about the last time you felt a negative emotion---like stress, anger, or frustration. What was going through your mind as you were going through that negativity? Was your mind cluttered with thoughts? Or was it paralyzed, unable to think?
@@ -188,6 +200,7 @@ Stop. Immerse for one minute. Do I want to keep this negativity? Breath deep, ex
 This will remind you of the steps to the process. Remember; take the time you need to really immerse yourself in the emotion. Then, when you feel you’ve felt it enough, release it---really let go of it. You will be surprised at how quickly you can move on from a negative situation and get to what you really want to do!
  
 **•第十三篇：Be Happy 快乐 **
+
 Be Happy!
 
 “The days that make us happy make us wise.”----John Masefield
@@ -203,6 +216,7 @@ Nor are the insights of happiness limited to what is near around you. Unhappy, w
 The long vista is there for the seeing. The ground at your feet, the world about you----people, thoughts, emotions, pressures---are now fitted into the larger scene. Everything assumes a fairer proportion. And here is the beginning of wisdom.
  
 **•第十四篇：The Goodness of life 生命的美好 **
+
 The Goodness of Life
 
 Though there is much to be concerned about, there is far, far more for which to be thankful. Though life’s goodness can at times be overshadowed, it is never outweighed.
@@ -226,6 +240,7 @@ Take a moment to let the goodness of life touch your spirit and calm your though
 Though the problems constantly scream for attention and the conflicts appear to rage ever stronger, the goodness of life grows stronger still, quietly, peacefully, with more purpose and meaning than ever before.
  
 **•第十五篇：Facing the Enemies Within 直面内在的敌人 **
+
 Facing the Enemies Within
 
 We are not born with courage, but neither are we born with fear. Maybe some of our fears are brought on by your own experiences, by what someone has told you, by what you’ve read in the papers. Some fears are valid, like walking alone in a bad part of town at two o’clock in the morning. But once you learn to avoid that situation, you won’t need to live in fear of it.
@@ -245,6 +260,7 @@ The fifth interior enemy is overcaution. It is the timid approach to life. Timid
 Do battle with the enemy. Do battle with your fears. Build your courage to fight what’s holding ou back, what’s keeping you from your goals and dreams. Be courageous in your life and in your pursuit of the things you want and the person you want to become. 
  
 **•第十六篇：Abundance is a Life Style 富足的生活方式 **
+
 Abundance is a Life Style
 
 Abundance is a life style, a way of living your life. It isn’t something you buy now and then or pull down from the cupboard, dust off and use once or twice, and then return to the cupboard.
@@ -264,6 +280,7 @@ Be in a state of abundance of what you already have. I guarantee they are there;
 Learning to trust in your own abundance is required. When you begin to be within your own space of abundance, whatever you need will appear whenever you need it. That’s just the way the higher powers set this universe up to work. Trust the universal energy. The knowing of it all will humble you to its power yet let the brightness of you shine everywhere it needs to. Just by being from a state of abundance, it is being you.
  
 **•第十七篇：Human Life a Poem 人生如诗 **
+
 Human Life a Poem
 
 I think that, from a biological standpoint, human life almost reads like a poem. It has its own rhythm and beat, its internal cycles of growth and decay. It begins with innocent childhood, followed by awkward adolescence trying awkwardly to adapt itself to mature society, with its young passions and follies, its ideals and ambitions; then it reaches a manhood of intense activities, profiting from experience and learning more about society and human nature; at middle age, there is a slight easing of tension, a mellowing of character like the ripening of fruit or the mellowing of good wine, and the gradual acquiring of a more tolerant, more cynical and at the same time a kindlier view of life; then In the sunset of our life, the endocrine glands decrease their activity, and if we have a true philosophy of old age and have ordered our life pattern according to it, it is for us the age of peace and security and leisure and contentment; finally, life flickers out and one goes into eternal sleep, never to wake up again.
@@ -273,6 +290,7 @@ One should be able to sense the beauty of this rhythm of life, to appreciate, as
 No one can say that life with childhood, manhood and old age is not a beautiful arrangement; the day has its morning, noon and sunset, and the year has its seasons, and it is good that it is so. There is no good or bad in life, except what is good according to its own season. And if we take this biological view of life and try to live according to the seasons, no one but a conceited fool or an impossible idealist can deny that human life can be lived like a poem. Shakespeare has expressed this idea more graphically in his passage about the seven stages of life, and a good many Chinese writers have said about the same thing. It is curious that Shakespeare was never very religious, or very much concerned with religion. I think this was his greatness; he took human life largely as it was, and intruded himself as little upon the general scheme of things as he did upon the characters of his plays. Shakespeare was like Nature itself, and that is the greatest compliment we can pay to a writer or thinker. He merely lived, observed life and went away. 
  
 **•第十八篇：Solitude 独处 **
+
 Solitude
 
 I find it wholesome to be alone the greater part of the time. To be in company, even with the best, is soon wearisome and dissipating. I love to be alone. I never found the companion that was so companionable as solitude. We are for the most part more lonely when we go abroad among men than when we stay in our chambers. A man thinking or working is always alone, let him be where he will. Solitude is not measured by the miles of space that intervene between a man and his fellows. The really diligent student in one of the crowded hives of Cambridge College is as solitary as a dervish in the desert. The farmer can work alone in the field or the woods all day, hoeing or chopping, and not feel lonesome, because he is employed; but when he comes home at night he cannot sit down in a room alone, at the mercy of his thoughts, but must be where he can :see the folks,:” and recreate, and, as he thinks, remunerate himself for his day’s solitude; and hence he wonders how the student can sit alone in the house all night and most of the day without ennui and :the blues:; but he does not realize that the student, though in the house, is still at work in his field, and chopping in his woods, as the farmer in his, and in turn seeks the same recreation and society that the latter does, though it may be a more condensed form of it.
@@ -285,6 +303,7 @@ And yet it has not the blue devils, but the blue angels in it, in the azure tint
  
 
 **•第十九篇：Giving Life Meaning 给生命以意义 **
+
 Giving Life Meaning
 
 Have you thought about what you want people to say about you after you’re gone? Can you hear the voice saying, “He was a great man.” Or “She really will be missed.” What else do they say?
@@ -305,6 +324,7 @@ These moments are strung together in a series we call events. These events are s
  
 
 **•第二十篇：Relish the Moment 品位现在 **
+
 Relish the Moment
 
 Tucked away in our subconsciousness is an idyllic vision. We see ourselves on a long trip that spans the moment. We are traveling by train. Out the windows, we drink in the passing scene of cars on nearby highways, of children waving at a crossing, of cattle grazing on a distant hillside, of smoke pouring from a power plant, of row upon row of corn ad wheat, of flatlands and valleys, of mountains and rolling hillsides, of city skylines and village halls.
@@ -319,6 +339,7 @@ It isn’t the burdens of today that drive men mad. It is the regrets over yeste
 So stop pacing the aisles and counting the miles. Instead, climb more mountains, eat more ice cream, go barefoot more often, swim more rivers, watch more sunsets, laugh more, cry less. Life must be lived as we go along. The station will come soon enough. 
  
 **•第二十一篇：The Love of Beauty 爱美 **
+
 The Love of Beauty
 
 The love of beauty is an essential part of all healthy human nature. It is a moral quality. The absence of it is not an assured ground of condemnation, but the presence of it is an invariable sign of goodness of heart. In proportion to the degree in which it is felt will probably be the degree in which nobleness and beauty of character will be attained.
@@ -328,6 +349,7 @@ Natural beauty is an all-pervading presence. The universe is its temple. It unfo
 All persons should seek to become acquainted with the beauty in nature. There is not a worm we tread upon, nor a leaf that dances merrily as it falls before the autumn winds, but calls for our study and admiration. The power to appreciated beauty not merely increases our sources of happiness---it enlarges our moral nature, too. Beauty calms our restlessness and dispels our cares. Go into the fields or the woods, spend a summer day by the sea or the mountains, and all your little perplexities and anxieties will vanish. Listen to sweet music, and your foolish fears and petty jealousies will pass away. The beauty of the world helps us to seek and find the beauty of goodness.
  
 **•第二十二篇：The Happy Door 快乐之门 **
+
 The Happy door
 
 Happiness is like a pebble dropped into a pool to set in motion an ever-widening circle of ripples. As Stevenson has said, being happy is a duty.
@@ -345,6 +367,7 @@ Then the make-believe becomes a reality. You possess the secret of peace of mind
 Being happy, once it is realized as a duty and established as a habit, opens doors into unimaginable gardens thronged with grateful friends.
  
 **•第二十三篇：Born to Win 生而为赢 **
+
 Born to Win
 
 Each human being is born as something new, something that never existed before. Each is born with the capacity to win at life. Each person has a unique way of seeing, hearing, touching, tasting and thinking. Each has his or her own unique potentials---capabilities and limitations. Each can be a significant, thinking, aware, and creative being---a productive person, a winner.
@@ -364,6 +387,7 @@ Although winners can freely enjoy themselves, they can also postpone enjoyment, 
 A winner cares about the world and its peoples. A winner is not isolated from the general problems of society, but is concerned, compassionate, and committed to improving the quality of life. Even in the face of national and international adversity, a winner’s self-image is not one of a powerless individual. A winner works to make the world a better place.
  
 **•第二十四篇：Work and Pleasure 工作和娱乐 **
+
 Work and Pleasure
 
 To be really happy and really safe, one ought to have at least two or three hobbies, and they must all be real. It is no use starting late in life to say: “I will take an interest in this or that.” Such an attempt only aggravates the strain of mental effort. A man may acquire great knowledge of topics unconnected with his daily work, and yet hardly get any benefit or relief. It is no use doing what you like; you have got to like what you do. Broadly speaking, human being may be divided into three classes: those who are toiled to death, those who are worried to death, and those who are bored to death. It is no use offering the manual laborer, tired out with a hard week’s sweat and effort, the chance of playing a game of football or baseball on Saturday afternoon. It is no use inviting the politician or the professional or business man, who has been working or worrying about serious things for six days, to work or worry about trifling things at the weekend.
@@ -371,6 +395,7 @@ To be really happy and really safe, one ought to have at least two or three hobb
 It may also be said that rational, industrious, useful human beings are divided into two classes: first, those whose work is work and whose pleasure is pleasure; and secondly, those whose work and pleasure are one. Of these the former are the majority. They have their compensations. The long hours in the office or the factory bring with them as their reward, not only the means of sustenance, but a keen appetite for pleasure even in its simplest and most modest forms. But Fortune’s favored children belong to the second class. Their life is a natural harmony. For them the working hours are never long enough. Each day is a holiday, and ordinary holidays when they come are grudged as enforced interruptions in an absorbing vacation. Yet to both classes the need of an alternative outlook, of a change of atmosphere, of a diversion of effort, is essential. Indeed, it may well be that those whose work is their pleasure are those who most need the means of banishing it at intervals from their minds.
  
 **•第二十五篇：Mirror, Mirror--What do I see镜子,镜子,告诉我 **
+
 Mirror, Mirror---What do I See?
 
 A loving person lives in a loving world. A hostile person lives in a hostile world. Everyone you meet is your mirror.
@@ -389,6 +414,7 @@ It means that just as I can get annoyed or disturbed when I notice that aspect i
 At times we meet someone new and feel distant, disconnected, or disgusted. Although we don’t want to believe it, and it’s not easy or desirable to look further, it can be a great learning lesson to figure out what part of the person is being reflected in you. It’s simply just another way to create more self-awareness.
  
 **•第二十六篇：On Motes and Beams 微尘与栋梁 **
+
 On Motes and Beams
 
 It is curious that our own offenses should seem so much less heinous than the offenses of others. I suppose the reason is that we know all the circumstances that have occasioned them and so manage to excuse in ourselves what we cannot excuse in others. We turn our attention away from our own defects, and when we are forced by untoward events to consider them, find it easy to condone them. For all I know we are right to do this; they are part of us and we must accept the good and bad in ourselves together.
@@ -398,6 +424,7 @@ But when we come to judge others, it is not by ourselves as we really are that w
 There is not much to choose between men. They are all a hotchpotch of greatness and littleness, of virtue and vice, of nobility and baseness. Some have more strength of character, or more opportunity, and so in one direction or another give their instincts freer play, but potentially they are the same. For my part, I do not think I am any better or any worse than most people, but I know that if I set down every action in my life and every thought that has crossed my mind, the world would consider me a monster of depravity. The knowledge that these reveries are common to all men should inspire one with tolerance to oneself as well as to others. It is well also if they enable us to look upon our fellows, even the most eminent and respectable, with humor, and if they lead us to take ourselves not too seriously.
 
 **第二十七篇：An October Sunrise 十月的日出 **
+
 An October Sunrise
 
 I was up the next morning be fore the October sunrise, and away through the wild and the woodland. The rising of the sun was noble in the cold and warmth of it peeping down the spread of light, he raised his shoulder heavily over the edge of grey mountain and wavering length of upland. Beneath his gaze the dew-fogs dipped, and crept to crept to the hollow places; then stole away in line and column, holding skirts, and clinging subtly at the sheltering corners where rock hung over grassland, while the brave lines of the hills came forth, one beyond other gliding.
@@ -409,6 +436,7 @@ Yet before the floating impress of the woods could clear it self, suddenly the g
 So, perhaps, shall break upon us that eternal morning, when crag and chasm shall be no more, neither hill and valley, nor great unvintaged ocean; but all things shall arise, and shine in the light of the Father’s countenance, because itself is risen.
  
 **•第二十八篇：To Be or Not to Be 生存还是毁灭 **
+
 To be or not to be
 Outside the Bible, these six words are the most famous in all the literature of the world. They were spoken by Hamlet when he was thinking aloud, and they are the most famous words in Shakespeare because Hamlet was speaking not only for himself but also for every thinking man and woman. To be or not to be, to live or not to live, to live richly and abundantly and eagerly, or to live dully and meanly and scarcely. A philosopher once wanted to know whether he was alive or not, which is a good question for everyone to put to himself occasionally. He answered it by saying: "I think, therefore am." 
 
@@ -421,6 +449,7 @@ Bacon said that a man dies as often as he loses a friend. But we gain new life b
 To be or not to be--to live intensely and richly, merely to exist, that depends on ourselves. Let widen and intensify our relations. While we live, let live!
  
 **•第二十九篇：Gettysburg Address 葛底斯堡演说** 
+
 Gettysburg Address
 
 Fourscore and seven years ago, our fathers brought forth upon this continent a new nation, conceived in liberty and dedicated to the proposition that all men are created equal.
@@ -430,6 +459,7 @@ Now, we are engaged in a great civil war, testing whether that nation or any nat
 But, in a larger sense, we cannot dedicate, we cannot consecrate, we cannot hallow this ground. The brave men, living and dead, who struggled here, have consecrated it far above our poor power to add or detract. The world will little note nor long remember what we say here, but it can never forget what they did here. It is for us, the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us---that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion; that we here highly resolve that these dead shall not have died in vain; that this nation, under God, shall have a new birth of freedom; and that government of the people, by the people, and for the people, shall not perish from the earth.
  
 **•第三十篇：First Inaugural Address(Excerpts) 就职演讲（节选） **
+
 First Inaugural Address
 
 We observe today not a victory of party, but a celebration of freedom, symbolizing an end, as well as a beginning; signifying renewal, as well as change. For I have sworn before you and Almighty God the same solemn oath our forebears prescribed nearly a century and three quarters ago.
